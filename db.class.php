@@ -3,7 +3,7 @@
 	class db {
 
 		//host
-		private $host = 'localhost';
+		private $host = 'heroku-php-apache2';
 
 		//usuario
 		private $usuario = 'root';
