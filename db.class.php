@@ -3,16 +3,16 @@
 	class db {
 
 		//host
-		private $host = 'heroku-php-apache2';
+		private $host = 'us-cdbr-iron-east-03.cleardb.net';
 
 		//usuario
-		private $usuario = 'root';
+		private $usuario = 'bda929a4e9dae2';
 
 		//senha
-		private $senha = '';
+		private $senha = '4e2dca46';
 
 		//banco de dados
-		private $database = 'trend_repos';
+		private $database = 'heroku_34b0fc125a335fd';
 
 		public function connect_mysql(){
 
